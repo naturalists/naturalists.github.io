@@ -1,2 +1,1 @@
-# naturalists.github.io
-About me
+https://naturalists.github.io/
